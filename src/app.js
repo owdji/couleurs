@@ -2,8 +2,8 @@ import * as convert from "color-convert";
 import { Notyf } from "notyf";
 import "notyf/notyf.min.css";
 
-import { Color } from "./modules/Color";
-import { isHexColor, hexToCSSHSL, generatePalette } from "./modules/utils";
+import { Color } from "../modules/Color";
+import { isHexColor, hexToCSSHSL, generatePalette } from "../modules/utils";
 
 // Instancier Notyf
 const notyf = new Notyf();

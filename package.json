@@ -1,7 +1,6 @@
 {
   "name": "lightness",
   "version": "1.0.0",
-  "description": "",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
     "start": "parcel src/index.html",
@@ -16,5 +15,15 @@
     "color-convert": "^2.0.1",
     "invert-color": "^2.0.0",
     "notyf": "^3.10.0"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owdji/couleurs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/owdji/couleurs/issues"
+  },
+  "homepage": "https://github.com/owdji/couleurs#readme",
+  "description": ""
 }
